@@ -1,0 +1,22 @@
+# data-analysis-projects
+我的数据学习分析
+# 数据分析项目
+
+西交利物浦大学 数据科学与大数据技术 · 个人学习记录
+
+## 目录
+
+- `week01_basics/` — Python 基础语法练习
+  - `temperature.py` — 温度转换
+  - `bmi.py` — BMI 计算
+  - `leap_year.py` — 闰年判断
+  - `multiplication_table.py` — 九九乘法表
+  - `guess_number.py` — 猜数字游戏
+
+## 学习进度
+
+- [x] 环境搭建 + GitHub 入门
+- [ ] Python 基础语法（进行中）
+- [ ] SQL
+- [ ] pandas
+- [ ] 第一个数据分析项目
